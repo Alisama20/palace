@@ -78,7 +78,6 @@
     "AddInterfaceBoundaryElements": true,
     "CleanUnusedElements": true,
     "CrackDisplacementFactor": 1e-12,
-    "CrackInternalBoundaryElements": true,
     "ExportPrerefinedMesh": false,
     "L0": 0.01,
     "MakeHexahedral": false,
